@@ -1,0 +1,41 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./secure-rag-backend
+      dockerfile: Dockerfile
+    container_name: srag-backend
+    env_file:
+      - ./secure-rag-backend/.env
+    environment:
+      - ENVIRONMENT=production
+    ports:
+      - "8000:8000"
+    volumes:
+      - srag_data:/app/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 15s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
+
+  frontend:
+    build:
+      context: ./secure-rag-frontend
+      dockerfile: Dockerfile
+      args:
+        - VITE_API_URL=/api/v1
+    container_name: srag-frontend
+    ports:
+      - "80:80"
+    depends_on:
+      backend:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  srag_data:
+    driver: local

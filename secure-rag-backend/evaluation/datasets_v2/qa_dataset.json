@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "q_0_lex",
+    "question": "What is the maximum allowable days per calendar month for telecommuting limits?",
+    "is_answerable": true,
+    "source_document": "baseline_000_remote_work.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_0_sem",
+    "question": "At what point does exceeding the limit on telecommuting limits become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_000_remote_work.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_0_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to telecommuting limits. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_000_remote_work.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_1_lex",
+    "question": "What is the maximum allowable minutes of continuous unattended session before auto-lock for device monitoring?",
+    "is_answerable": true,
+    "source_document": "baseline_001_infosec.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_1_sem",
+    "question": "At what point does exceeding the limit on device monitoring become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_001_infosec.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_1_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to device monitoring. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_001_infosec.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_2_lex",
+    "question": "What is the maximum allowable documented conduct incidents before formal review for professional behaviour standards?",
+    "is_answerable": true,
+    "source_document": "baseline_002_conduct.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_2_sem",
+    "question": "At what point does exceeding the limit on professional behaviour standards become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_002_conduct.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_2_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to professional behaviour standards. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_002_conduct.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_3_lex",
+    "question": "What is the maximum allowable USD per meal for domestic travel for per-meal expense allowance?",
+    "is_answerable": true,
+    "source_document": "baseline_003_travel.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_3_sem",
+    "question": "At what point does exceeding the limit on per-meal expense allowance become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_003_travel.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_3_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to per-meal expense allowance. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_003_travel.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_4_lex",
+    "question": "What is the maximum allowable business days for standard vendor due diligence for vendor vetting process?",
+    "is_answerable": true,
+    "source_document": "baseline_004_procurement.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_4_sem",
+    "question": "At what point does exceeding the limit on vendor vetting process become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_004_procurement.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_4_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to vendor vetting process. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_004_procurement.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_5_lex",
+    "question": "What is the maximum allowable years of mandatory archive retention for document archiving duration?",
+    "is_answerable": true,
+    "source_document": "baseline_005_retention.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_5_sem",
+    "question": "At what point does exceeding the limit on document archiving duration become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_005_retention.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_5_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to document archiving duration. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_005_retention.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_6_lex",
+    "question": "What is the maximum allowable hours for Recovery Time Objective (RTO) for IT recovery operations?",
+    "is_answerable": true,
+    "source_document": "baseline_006_dr.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_6_sem",
+    "question": "At what point does exceeding the limit on IT recovery operations become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_006_dr.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_6_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to IT recovery operations. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_006_dr.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_7_lex",
+    "question": "What is the maximum allowable hours from discovery to mandatory internal notification for security breach notification?",
+    "is_answerable": true,
+    "source_document": "baseline_007_incident.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_7_sem",
+    "question": "At what point does exceeding the limit on security breach notification become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_007_incident.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_7_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to security breach notification. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_007_incident.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_8_lex",
+    "question": "What is the maximum allowable business days to return all company equipment for equipment return on departure?",
+    "is_answerable": true,
+    "source_document": "baseline_008_onboarding.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_8_sem",
+    "question": "At what point does exceeding the limit on equipment return on departure become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_008_onboarding.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_8_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to equipment return on departure. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_008_onboarding.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_9_lex",
+    "question": "What is the maximum allowable personal devices registered per employee for personal device registration?",
+    "is_answerable": true,
+    "source_document": "baseline_009_byod.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_9_sem",
+    "question": "At what point does exceeding the limit on personal device registration become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_009_byod.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_9_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to personal device registration. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_009_byod.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_10_lex",
+    "question": "What is the maximum allowable USD maximum value per gift received for gift and hospitality limits?",
+    "is_answerable": true,
+    "source_document": "baseline_010_bribery.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_10_sem",
+    "question": "At what point does exceeding the limit on gift and hospitality limits become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_010_bribery.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_10_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to gift and hospitality limits. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_010_bribery.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_11_lex",
+    "question": "What is the maximum allowable social media posts per week before mandatory pre-approval for pre-approval threshold for public statements?",
+    "is_answerable": true,
+    "source_document": "baseline_011_social_media.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_11_sem",
+    "question": "At what point does exceeding the limit on pre-approval threshold for public statements become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_011_social_media.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_11_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to pre-approval threshold for public statements. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_011_social_media.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_12_lex",
+    "question": "What is the maximum allowable months between formal performance reviews for performance evaluation cycle?",
+    "is_answerable": true,
+    "source_document": "baseline_012_performance.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_12_sem",
+    "question": "At what point does exceeding the limit on performance evaluation cycle become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_012_performance.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_12_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to performance evaluation cycle. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_012_performance.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_13_lex",
+    "question": "What is the maximum allowable concurrent active project assignments per contractor for contractor system access restrictions?",
+    "is_answerable": true,
+    "source_document": "baseline_013_contractors.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_13_sem",
+    "question": "At what point does exceeding the limit on contractor system access restrictions become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_013_contractors.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_13_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to contractor system access restrictions. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_013_contractors.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_14_lex",
+    "question": "What is the maximum allowable months between mandatory vendor security assessments for third-party security audit frequency?",
+    "is_answerable": true,
+    "source_document": "baseline_014_vendor_sec.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_14_sem",
+    "question": "At what point does exceeding the limit on third-party security audit frequency become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_014_vendor_sec.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_14_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to third-party security audit frequency. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_014_vendor_sec.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_15_lex",
+    "question": "What is the maximum allowable USD threshold for first-class flight reimbursement on routes of 8+ hours for executive premium-class travel?",
+    "is_answerable": true,
+    "source_document": "baseline_015_exec_travel.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_15_sem",
+    "question": "At what point does exceeding the limit on executive premium-class travel become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_015_exec_travel.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_15_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to executive premium-class travel. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_015_exec_travel.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_16_lex",
+    "question": "What is the maximum allowable business days for standard hardware issuance for laptop and device issuance?",
+    "is_answerable": true,
+    "source_document": "baseline_016_hardware.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_16_sem",
+    "question": "At what point does exceeding the limit on laptop and device issuance become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_016_hardware.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_16_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to laptop and device issuance. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_016_hardware.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_17_lex",
+    "question": "What is the maximum allowable licensed seats per department before additional approval is needed for software licence compliance?",
+    "is_answerable": true,
+    "source_document": "baseline_017_licenses.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_17_sem",
+    "question": "At what point does exceeding the limit on software licence compliance become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_017_licenses.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_17_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to software licence compliance. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_017_licenses.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_18_lex",
+    "question": "What is the maximum allowable visitors per employee per month before Security Director approval is required for visitor access and badge management?",
+    "is_answerable": true,
+    "source_document": "baseline_018_physical_sec.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_18_sem",
+    "question": "At what point does exceeding the limit on visitor access and badge management become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_018_physical_sec.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_18_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to visitor access and badge management. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_018_physical_sec.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_19_lex",
+    "question": "What is the maximum allowable hours for critical cloud vulnerability remediation for cloud vulnerability remediation?",
+    "is_answerable": true,
+    "source_document": "baseline_019_cloud_sec.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_19_sem",
+    "question": "At what point does exceeding the limit on cloud vulnerability remediation become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_019_cloud_sec.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_19_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to cloud vulnerability remediation. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_019_cloud_sec.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_20_lex",
+    "question": "What is the maximum allowable classification labels permitted per document for data classification labelling?",
+    "is_answerable": true,
+    "source_document": "baseline_020_classification.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_20_sem",
+    "question": "At what point does exceeding the limit on data classification labelling become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_020_classification.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_20_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to data classification labelling. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_020_classification.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_21_lex",
+    "question": "What is the maximum allowable business days to fulfil a verified deletion request for personal data deletion requests?",
+    "is_answerable": true,
+    "source_document": "baseline_021_privacy.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_21_sem",
+    "question": "At what point does exceeding the limit on personal data deletion requests become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_021_privacy.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_21_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to personal data deletion requests. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_021_privacy.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_22_lex",
+    "question": "What is the maximum allowable days of PTO accrued per year for annual leave accrual and usage?",
+    "is_answerable": true,
+    "source_document": "baseline_022_pto.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_22_sem",
+    "question": "At what point does exceeding the limit on annual leave accrual and usage become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_022_pto.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_22_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to annual leave accrual and usage. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_022_pto.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_23_lex",
+    "question": "What is the maximum allowable weeks of fully paid parental leave for paid parental leave entitlement?",
+    "is_answerable": true,
+    "source_document": "baseline_023_parental_leave.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_23_sem",
+    "question": "At what point does exceeding the limit on paid parental leave entitlement become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_023_parental_leave.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_23_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to paid parental leave entitlement. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_023_parental_leave.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_24_lex",
+    "question": "What is the maximum allowable working days for investigation completion for harassment complaint investigation?",
+    "is_answerable": true,
+    "source_document": "baseline_024_harassment.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_24_sem",
+    "question": "At what point does exceeding the limit on harassment complaint investigation become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_024_harassment.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_24_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to harassment complaint investigation. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_024_harassment.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_25_lex",
+    "question": "What is the maximum allowable days between mandatory safety refresher training for mandatory health and safety training?",
+    "is_answerable": true,
+    "source_document": "baseline_025_safety.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_25_sem",
+    "question": "At what point does exceeding the limit on mandatory health and safety training become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_025_safety.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_25_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to mandatory health and safety training. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_025_safety.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_26_lex",
+    "question": "What is the maximum allowable minutes for a complete building evacuation drill for evacuation drill and muster procedures?",
+    "is_answerable": true,
+    "source_document": "baseline_026_evacuation.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_26_sem",
+    "question": "At what point does exceeding the limit on evacuation drill and muster procedures become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_026_evacuation.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_26_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to evacuation drill and muster procedures. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_026_evacuation.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_27_lex",
+    "question": "What is the maximum allowable months between mandatory OSS licence compliance reviews for open-source licence compliance?",
+    "is_answerable": true,
+    "source_document": "baseline_027_oss.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_27_sem",
+    "question": "At what point does exceeding the limit on open-source licence compliance become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_027_oss.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_27_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to open-source licence compliance. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_027_oss.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_28_lex",
+    "question": "What is the maximum allowable months before mandatory key rotation for cryptographic key rotation?",
+    "is_answerable": true,
+    "source_document": "baseline_028_crypto.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_28_sem",
+    "question": "At what point does exceeding the limit on cryptographic key rotation become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_028_crypto.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_28_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to cryptographic key rotation. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_028_crypto.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_29_lex",
+    "question": "What is the maximum allowable simultaneous VPN sessions permitted per user account for VPN and remote access controls?",
+    "is_answerable": true,
+    "source_document": "baseline_029_network.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "lexical"
+  },
+  {
+    "id": "q_29_sem",
+    "question": "At what point does exceeding the limit on VPN and remote access controls become prohibited?",
+    "is_answerable": true,
+    "source_document": "baseline_029_network.pdf",
+    "ground_truth_pages": [
+      3
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "q_29_hop",
+    "question": "An employee who falls under the General Staff tier needs to arrange an exception related to VPN and remote access controls. Who must give written approval, and where must that approval be recorded?",
+    "is_answerable": true,
+    "source_document": "baseline_029_network.pdf",
+    "ground_truth_pages": [
+      2,
+      4
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q_unans_0",
+    "question": "Does the company have a policy on employee stock options and equity grants?",
+    "is_answerable": false,
+    "type": "unanswerable"
+  },
+  {
+    "id": "q_unans_1",
+    "question": "Is there a company policy on reimbursement for commuter parking or transport passes?",
+    "is_answerable": false,
+    "type": "unanswerable"
+  },
+  {
+    "id": "q_unans_2",
+    "question": "What are the rules for paid jury-duty leave?",
+    "is_answerable": false,
+    "type": "unanswerable"
+  },
+  {
+    "id": "q_unans_3",
+    "question": "Can employees use company laptops for approved side-project work outside office hours?",
+    "is_answerable": false,
+    "type": "unanswerable"
+  },
+  {
+    "id": "q_unans_4",
+    "question": "Is there a home-office furniture or ergonomic equipment allowance for remote employees?",
+    "is_answerable": false,
+    "type": "unanswerable"
+  },
+  {
+    "id": "q_unans_5",
+    "question": "Does the company offer pet insurance as part of its employee benefits package?",
+    "is_answerable": false,
+    "type": "unanswerable"
+  },
+  {
+    "id": "q_unans_6",
+    "question": "What are the restrictions on personal cryptocurrency trading using personal accounts?",
+    "is_answerable": false,
+    "type": "unanswerable"
+  },
+  {
+    "id": "q_unans_7",
+    "question": "Does the company provide or subsidise gym membership for employees?",
+    "is_answerable": false,
+    "type": "unanswerable"
+  },
+  {
+    "id": "q_unans_8",
+    "question": "Is there a paid volunteer time-off allowance for employees engaged in charitable work?",
+    "is_answerable": false,
+    "type": "unanswerable"
+  },
+  {
+    "id": "q_unans_9",
+    "question": "Can employees use personal cloud storage services such as Dropbox or iCloud to store work files on company devices?",
+    "is_answerable": false,
+    "type": "unanswerable"
+  },
+  {
+    "id": "q_unans_10",
+    "question": "Is there a relocation bonus or allowance for employees required to move cities for a new role?",
+    "is_answerable": false,
+    "type": "unanswerable"
+  },
+  {
+    "id": "q_unans_11",
+    "question": "What is the policy on using a company vehicle for personal trips at weekends?",
+    "is_answerable": false,
+    "type": "unanswerable"
+  },
+  {
+    "id": "q_unans_12",
+    "question": "Do employees receive a financial bonus for filing a patent arising from work conducted for the company?",
+    "is_answerable": false,
+    "type": "unanswerable"
+  },
+  {
+    "id": "q_unans_13",
+    "question": "Are conference registration fees and associated travel covered by a separate training or development budget?",
+    "is_answerable": false,
+    "type": "unanswerable"
+  },
+  {
+    "id": "q_unans_14",
+    "question": "Can employees claim reimbursement for home broadband or internet costs while working remotely?",
+    "is_answerable": false,
+    "type": "unanswerable"
+  }
+]

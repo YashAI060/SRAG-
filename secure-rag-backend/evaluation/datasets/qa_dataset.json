@@ -1,0 +1,1472 @@
+[
+  {
+    "id": "qa_000_1",
+    "question": "What is the policy ID for the Remote Work and Telecommuting Policy?",
+    "is_answerable": true,
+    "source_document": "doc_000_remote_work_and_tele.pdf",
+    "expected_answer_keywords": [
+      "POL-REM-000"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_000_2",
+    "question": "How long do employees have to complete the process under the Remote Work and Telecommuting Policy?",
+    "is_answerable": true,
+    "source_document": "doc_000_remote_work_and_tele.pdf",
+    "expected_answer_keywords": [
+      "28 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_000_3",
+    "question": "Who needs to approve exceptions for remote work and telecommuting policy?",
+    "is_answerable": true,
+    "source_document": "doc_000_remote_work_and_tele.pdf",
+    "expected_answer_keywords": [
+      "HR approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_000_4",
+    "question": "Are there audits for remote work and telecommuting policy?",
+    "is_answerable": true,
+    "source_document": "doc_000_remote_work_and_tele.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_000_5",
+    "question": "What is the penalty for missing a deadline on Mars under Remote Work and Telecommuting Policy?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_001_1",
+    "question": "What is the policy ID for the Information Security and Acceptable Use?",
+    "is_answerable": true,
+    "source_document": "doc_001_information_security.pdf",
+    "expected_answer_keywords": [
+      "POL-INF-001"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_001_2",
+    "question": "How long do employees have to complete the process under the Information Security and Acceptable Use?",
+    "is_answerable": true,
+    "source_document": "doc_001_information_security.pdf",
+    "expected_answer_keywords": [
+      "5 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_001_3",
+    "question": "Who needs to approve exceptions for information security and acceptable use?",
+    "is_answerable": true,
+    "source_document": "doc_001_information_security.pdf",
+    "expected_answer_keywords": [
+      "VP approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_001_4",
+    "question": "Are there audits for information security and acceptable use?",
+    "is_answerable": true,
+    "source_document": "doc_001_information_security.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_001_5",
+    "question": "What is the penalty for missing a deadline on Mars under Information Security and Acceptable Use?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_002_1",
+    "question": "What is the policy ID for the Employee Code of Conduct?",
+    "is_answerable": true,
+    "source_document": "doc_002_employee_code_of_con.pdf",
+    "expected_answer_keywords": [
+      "POL-EMP-002"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_002_2",
+    "question": "How long do employees have to complete the process under the Employee Code of Conduct?",
+    "is_answerable": true,
+    "source_document": "doc_002_employee_code_of_con.pdf",
+    "expected_answer_keywords": [
+      "28 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_002_3",
+    "question": "Who needs to approve exceptions for employee code of conduct?",
+    "is_answerable": true,
+    "source_document": "doc_002_employee_code_of_con.pdf",
+    "expected_answer_keywords": [
+      "VP approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_002_4",
+    "question": "Are there audits for employee code of conduct?",
+    "is_answerable": true,
+    "source_document": "doc_002_employee_code_of_con.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_002_5",
+    "question": "What is the penalty for missing a deadline on Mars under Employee Code of Conduct?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_003_1",
+    "question": "What is the policy ID for the Travel and Expense Reimbursement?",
+    "is_answerable": true,
+    "source_document": "doc_003_travel_and_expense_r.pdf",
+    "expected_answer_keywords": [
+      "POL-TRA-003"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_003_2",
+    "question": "How long do employees have to complete the process under the Travel and Expense Reimbursement?",
+    "is_answerable": true,
+    "source_document": "doc_003_travel_and_expense_r.pdf",
+    "expected_answer_keywords": [
+      "8 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_003_3",
+    "question": "Who needs to approve exceptions for travel and expense reimbursement?",
+    "is_answerable": true,
+    "source_document": "doc_003_travel_and_expense_r.pdf",
+    "expected_answer_keywords": [
+      "Director approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_003_4",
+    "question": "Are there audits for travel and expense reimbursement?",
+    "is_answerable": true,
+    "source_document": "doc_003_travel_and_expense_r.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_003_5",
+    "question": "What is the penalty for missing a deadline on Mars under Travel and Expense Reimbursement?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_004_1",
+    "question": "What is the policy ID for the Procurement and Vendor Management?",
+    "is_answerable": true,
+    "source_document": "doc_004_procurement_and_vend.pdf",
+    "expected_answer_keywords": [
+      "POL-PRO-004"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_004_2",
+    "question": "How long do employees have to complete the process under the Procurement and Vendor Management?",
+    "is_answerable": true,
+    "source_document": "doc_004_procurement_and_vend.pdf",
+    "expected_answer_keywords": [
+      "8 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_004_3",
+    "question": "Who needs to approve exceptions for procurement and vendor management?",
+    "is_answerable": true,
+    "source_document": "doc_004_procurement_and_vend.pdf",
+    "expected_answer_keywords": [
+      "Manager approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_004_4",
+    "question": "Are there audits for procurement and vendor management?",
+    "is_answerable": true,
+    "source_document": "doc_004_procurement_and_vend.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_004_5",
+    "question": "What is the penalty for missing a deadline on Mars under Procurement and Vendor Management?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_005_1",
+    "question": "What is the policy ID for the Data Retention and Destruction?",
+    "is_answerable": true,
+    "source_document": "doc_005_data_retention_and_d.pdf",
+    "expected_answer_keywords": [
+      "POL-DAT-005"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_005_2",
+    "question": "How long do employees have to complete the process under the Data Retention and Destruction?",
+    "is_answerable": true,
+    "source_document": "doc_005_data_retention_and_d.pdf",
+    "expected_answer_keywords": [
+      "20 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_005_3",
+    "question": "Who needs to approve exceptions for data retention and destruction?",
+    "is_answerable": true,
+    "source_document": "doc_005_data_retention_and_d.pdf",
+    "expected_answer_keywords": [
+      "Manager approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_005_4",
+    "question": "Are there audits for data retention and destruction?",
+    "is_answerable": true,
+    "source_document": "doc_005_data_retention_and_d.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_005_5",
+    "question": "What is the penalty for missing a deadline on Mars under Data Retention and Destruction?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_006_1",
+    "question": "What is the policy ID for the Business Continuity and Disaster Recovery?",
+    "is_answerable": true,
+    "source_document": "doc_006_business_continuity_.pdf",
+    "expected_answer_keywords": [
+      "POL-BUS-006"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_006_2",
+    "question": "How long do employees have to complete the process under the Business Continuity and Disaster Recovery?",
+    "is_answerable": true,
+    "source_document": "doc_006_business_continuity_.pdf",
+    "expected_answer_keywords": [
+      "26 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_006_3",
+    "question": "Who needs to approve exceptions for business continuity and disaster recovery?",
+    "is_answerable": true,
+    "source_document": "doc_006_business_continuity_.pdf",
+    "expected_answer_keywords": [
+      "VP approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_006_4",
+    "question": "Are there audits for business continuity and disaster recovery?",
+    "is_answerable": true,
+    "source_document": "doc_006_business_continuity_.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_006_5",
+    "question": "What is the penalty for missing a deadline on Mars under Business Continuity and Disaster Recovery?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_007_1",
+    "question": "What is the policy ID for the Incident Response Plan?",
+    "is_answerable": true,
+    "source_document": "doc_007_incident_response_pl.pdf",
+    "expected_answer_keywords": [
+      "POL-INC-007"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_007_2",
+    "question": "How long do employees have to complete the process under the Incident Response Plan?",
+    "is_answerable": true,
+    "source_document": "doc_007_incident_response_pl.pdf",
+    "expected_answer_keywords": [
+      "11 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_007_3",
+    "question": "Who needs to approve exceptions for incident response plan?",
+    "is_answerable": true,
+    "source_document": "doc_007_incident_response_pl.pdf",
+    "expected_answer_keywords": [
+      "Director approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_007_4",
+    "question": "Are there audits for incident response plan?",
+    "is_answerable": true,
+    "source_document": "doc_007_incident_response_pl.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_007_5",
+    "question": "What is the penalty for missing a deadline on Mars under Incident Response Plan?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_008_1",
+    "question": "What is the policy ID for the Employee Onboarding and Offboarding?",
+    "is_answerable": true,
+    "source_document": "doc_008_employee_onboarding_.pdf",
+    "expected_answer_keywords": [
+      "POL-EMP-008"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_008_2",
+    "question": "How long do employees have to complete the process under the Employee Onboarding and Offboarding?",
+    "is_answerable": true,
+    "source_document": "doc_008_employee_onboarding_.pdf",
+    "expected_answer_keywords": [
+      "8 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_008_3",
+    "question": "Who needs to approve exceptions for employee onboarding and offboarding?",
+    "is_answerable": true,
+    "source_document": "doc_008_employee_onboarding_.pdf",
+    "expected_answer_keywords": [
+      "Manager approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_008_4",
+    "question": "Are there audits for employee onboarding and offboarding?",
+    "is_answerable": true,
+    "source_document": "doc_008_employee_onboarding_.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_008_5",
+    "question": "What is the penalty for missing a deadline on Mars under Employee Onboarding and Offboarding?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_009_1",
+    "question": "What is the policy ID for the Bring Your Own Device (BYOD) Policy?",
+    "is_answerable": true,
+    "source_document": "doc_009_bring_your_own_devic.pdf",
+    "expected_answer_keywords": [
+      "POL-BRI-009"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_009_2",
+    "question": "How long do employees have to complete the process under the Bring Your Own Device (BYOD) Policy?",
+    "is_answerable": true,
+    "source_document": "doc_009_bring_your_own_devic.pdf",
+    "expected_answer_keywords": [
+      "15 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_009_3",
+    "question": "Who needs to approve exceptions for bring your own device (byod) policy?",
+    "is_answerable": true,
+    "source_document": "doc_009_bring_your_own_devic.pdf",
+    "expected_answer_keywords": [
+      "Manager approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_009_4",
+    "question": "Are there audits for bring your own device (byod) policy?",
+    "is_answerable": true,
+    "source_document": "doc_009_bring_your_own_devic.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_009_5",
+    "question": "What is the penalty for missing a deadline on Mars under Bring Your Own Device (BYOD) Policy?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_010_1",
+    "question": "What is the policy ID for the Anti-Bribery and Corruption Policy?",
+    "is_answerable": true,
+    "source_document": "doc_010_anti-bribery_and_cor.pdf",
+    "expected_answer_keywords": [
+      "POL-ANT-010"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_010_2",
+    "question": "How long do employees have to complete the process under the Anti-Bribery and Corruption Policy?",
+    "is_answerable": true,
+    "source_document": "doc_010_anti-bribery_and_cor.pdf",
+    "expected_answer_keywords": [
+      "19 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_010_3",
+    "question": "Who needs to approve exceptions for anti-bribery and corruption policy?",
+    "is_answerable": true,
+    "source_document": "doc_010_anti-bribery_and_cor.pdf",
+    "expected_answer_keywords": [
+      "VP approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_010_4",
+    "question": "Are there audits for anti-bribery and corruption policy?",
+    "is_answerable": true,
+    "source_document": "doc_010_anti-bribery_and_cor.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_010_5",
+    "question": "What is the penalty for missing a deadline on Mars under Anti-Bribery and Corruption Policy?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_011_1",
+    "question": "What is the policy ID for the Social Media and Public Communications?",
+    "is_answerable": true,
+    "source_document": "doc_011_social_media_and_pub.pdf",
+    "expected_answer_keywords": [
+      "POL-SOC-011"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_011_2",
+    "question": "How long do employees have to complete the process under the Social Media and Public Communications?",
+    "is_answerable": true,
+    "source_document": "doc_011_social_media_and_pub.pdf",
+    "expected_answer_keywords": [
+      "15 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_011_3",
+    "question": "Who needs to approve exceptions for social media and public communications?",
+    "is_answerable": true,
+    "source_document": "doc_011_social_media_and_pub.pdf",
+    "expected_answer_keywords": [
+      "HR approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_011_4",
+    "question": "Are there audits for social media and public communications?",
+    "is_answerable": true,
+    "source_document": "doc_011_social_media_and_pub.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_011_5",
+    "question": "What is the penalty for missing a deadline on Mars under Social Media and Public Communications?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_012_1",
+    "question": "What is the policy ID for the Performance Review and Promotions?",
+    "is_answerable": true,
+    "source_document": "doc_012_performance_review_a.pdf",
+    "expected_answer_keywords": [
+      "POL-PER-012"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_012_2",
+    "question": "How long do employees have to complete the process under the Performance Review and Promotions?",
+    "is_answerable": true,
+    "source_document": "doc_012_performance_review_a.pdf",
+    "expected_answer_keywords": [
+      "16 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_012_3",
+    "question": "Who needs to approve exceptions for performance review and promotions?",
+    "is_answerable": true,
+    "source_document": "doc_012_performance_review_a.pdf",
+    "expected_answer_keywords": [
+      "Manager approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_012_4",
+    "question": "Are there audits for performance review and promotions?",
+    "is_answerable": true,
+    "source_document": "doc_012_performance_review_a.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_012_5",
+    "question": "What is the penalty for missing a deadline on Mars under Performance Review and Promotions?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_013_1",
+    "question": "What is the policy ID for the Contractor Remote Work and Access?",
+    "is_answerable": true,
+    "source_document": "doc_013_contractor_remote_wo.pdf",
+    "expected_answer_keywords": [
+      "POL-CON-013"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_013_2",
+    "question": "How long do employees have to complete the process under the Contractor Remote Work and Access?",
+    "is_answerable": true,
+    "source_document": "doc_013_contractor_remote_wo.pdf",
+    "expected_answer_keywords": [
+      "9 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_013_3",
+    "question": "Who needs to approve exceptions for contractor remote work and access?",
+    "is_answerable": true,
+    "source_document": "doc_013_contractor_remote_wo.pdf",
+    "expected_answer_keywords": [
+      "Manager approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_013_4",
+    "question": "Are there audits for contractor remote work and access?",
+    "is_answerable": true,
+    "source_document": "doc_013_contractor_remote_wo.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_013_5",
+    "question": "What is the penalty for missing a deadline on Mars under Contractor Remote Work and Access?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_014_1",
+    "question": "What is the policy ID for the Vendor Information Security?",
+    "is_answerable": true,
+    "source_document": "doc_014_vendor_information_s.pdf",
+    "expected_answer_keywords": [
+      "POL-VEN-014"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_014_2",
+    "question": "How long do employees have to complete the process under the Vendor Information Security?",
+    "is_answerable": true,
+    "source_document": "doc_014_vendor_information_s.pdf",
+    "expected_answer_keywords": [
+      "4 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_014_3",
+    "question": "Who needs to approve exceptions for vendor information security?",
+    "is_answerable": true,
+    "source_document": "doc_014_vendor_information_s.pdf",
+    "expected_answer_keywords": [
+      "Director approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_014_4",
+    "question": "Are there audits for vendor information security?",
+    "is_answerable": true,
+    "source_document": "doc_014_vendor_information_s.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_014_5",
+    "question": "What is the penalty for missing a deadline on Mars under Vendor Information Security?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_015_1",
+    "question": "What is the policy ID for the Executive Travel and Expense?",
+    "is_answerable": true,
+    "source_document": "doc_015_executive_travel_and.pdf",
+    "expected_answer_keywords": [
+      "POL-EXE-015"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_015_2",
+    "question": "How long do employees have to complete the process under the Executive Travel and Expense?",
+    "is_answerable": true,
+    "source_document": "doc_015_executive_travel_and.pdf",
+    "expected_answer_keywords": [
+      "7 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_015_3",
+    "question": "Who needs to approve exceptions for executive travel and expense?",
+    "is_answerable": true,
+    "source_document": "doc_015_executive_travel_and.pdf",
+    "expected_answer_keywords": [
+      "VP approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_015_4",
+    "question": "Are there audits for executive travel and expense?",
+    "is_answerable": true,
+    "source_document": "doc_015_executive_travel_and.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_015_5",
+    "question": "What is the penalty for missing a deadline on Mars under Executive Travel and Expense?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_016_1",
+    "question": "What is the policy ID for the IT Hardware Provisioning?",
+    "is_answerable": true,
+    "source_document": "doc_016_it_hardware_provisio.pdf",
+    "expected_answer_keywords": [
+      "POL-ITH-016"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_016_2",
+    "question": "How long do employees have to complete the process under the IT Hardware Provisioning?",
+    "is_answerable": true,
+    "source_document": "doc_016_it_hardware_provisio.pdf",
+    "expected_answer_keywords": [
+      "12 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_016_3",
+    "question": "Who needs to approve exceptions for it hardware provisioning?",
+    "is_answerable": true,
+    "source_document": "doc_016_it_hardware_provisio.pdf",
+    "expected_answer_keywords": [
+      "HR approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_016_4",
+    "question": "Are there audits for it hardware provisioning?",
+    "is_answerable": true,
+    "source_document": "doc_016_it_hardware_provisio.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_016_5",
+    "question": "What is the penalty for missing a deadline on Mars under IT Hardware Provisioning?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_017_1",
+    "question": "What is the policy ID for the Software License Management?",
+    "is_answerable": true,
+    "source_document": "doc_017_software_license_man.pdf",
+    "expected_answer_keywords": [
+      "POL-SOF-017"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_017_2",
+    "question": "How long do employees have to complete the process under the Software License Management?",
+    "is_answerable": true,
+    "source_document": "doc_017_software_license_man.pdf",
+    "expected_answer_keywords": [
+      "17 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_017_3",
+    "question": "Who needs to approve exceptions for software license management?",
+    "is_answerable": true,
+    "source_document": "doc_017_software_license_man.pdf",
+    "expected_answer_keywords": [
+      "HR approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_017_4",
+    "question": "Are there audits for software license management?",
+    "is_answerable": true,
+    "source_document": "doc_017_software_license_man.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_017_5",
+    "question": "What is the penalty for missing a deadline on Mars under Software License Management?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_018_1",
+    "question": "What is the policy ID for the Physical Security and Access Control?",
+    "is_answerable": true,
+    "source_document": "doc_018_physical_security_an.pdf",
+    "expected_answer_keywords": [
+      "POL-PHY-018"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_018_2",
+    "question": "How long do employees have to complete the process under the Physical Security and Access Control?",
+    "is_answerable": true,
+    "source_document": "doc_018_physical_security_an.pdf",
+    "expected_answer_keywords": [
+      "6 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_018_3",
+    "question": "Who needs to approve exceptions for physical security and access control?",
+    "is_answerable": true,
+    "source_document": "doc_018_physical_security_an.pdf",
+    "expected_answer_keywords": [
+      "VP approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_018_4",
+    "question": "Are there audits for physical security and access control?",
+    "is_answerable": true,
+    "source_document": "doc_018_physical_security_an.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_018_5",
+    "question": "What is the penalty for missing a deadline on Mars under Physical Security and Access Control?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_019_1",
+    "question": "What is the policy ID for the Cloud Infrastructure Security?",
+    "is_answerable": true,
+    "source_document": "doc_019_cloud_infrastructure.pdf",
+    "expected_answer_keywords": [
+      "POL-CLO-019"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_019_2",
+    "question": "How long do employees have to complete the process under the Cloud Infrastructure Security?",
+    "is_answerable": true,
+    "source_document": "doc_019_cloud_infrastructure.pdf",
+    "expected_answer_keywords": [
+      "22 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_019_3",
+    "question": "Who needs to approve exceptions for cloud infrastructure security?",
+    "is_answerable": true,
+    "source_document": "doc_019_cloud_infrastructure.pdf",
+    "expected_answer_keywords": [
+      "VP approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_019_4",
+    "question": "Are there audits for cloud infrastructure security?",
+    "is_answerable": true,
+    "source_document": "doc_019_cloud_infrastructure.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_019_5",
+    "question": "What is the penalty for missing a deadline on Mars under Cloud Infrastructure Security?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_020_1",
+    "question": "What is the policy ID for the Data Classification and Handling?",
+    "is_answerable": true,
+    "source_document": "doc_020_data_classification_.pdf",
+    "expected_answer_keywords": [
+      "POL-DAT-020"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_020_2",
+    "question": "How long do employees have to complete the process under the Data Classification and Handling?",
+    "is_answerable": true,
+    "source_document": "doc_020_data_classification_.pdf",
+    "expected_answer_keywords": [
+      "29 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_020_3",
+    "question": "Who needs to approve exceptions for data classification and handling?",
+    "is_answerable": true,
+    "source_document": "doc_020_data_classification_.pdf",
+    "expected_answer_keywords": [
+      "Director approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_020_4",
+    "question": "Are there audits for data classification and handling?",
+    "is_answerable": true,
+    "source_document": "doc_020_data_classification_.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_020_5",
+    "question": "What is the penalty for missing a deadline on Mars under Data Classification and Handling?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_021_1",
+    "question": "What is the policy ID for the Privacy Policy and GDPR Compliance?",
+    "is_answerable": true,
+    "source_document": "doc_021_privacy_policy_and_g.pdf",
+    "expected_answer_keywords": [
+      "POL-PRI-021"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_021_2",
+    "question": "How long do employees have to complete the process under the Privacy Policy and GDPR Compliance?",
+    "is_answerable": true,
+    "source_document": "doc_021_privacy_policy_and_g.pdf",
+    "expected_answer_keywords": [
+      "6 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_021_3",
+    "question": "Who needs to approve exceptions for privacy policy and gdpr compliance?",
+    "is_answerable": true,
+    "source_document": "doc_021_privacy_policy_and_g.pdf",
+    "expected_answer_keywords": [
+      "HR approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_021_4",
+    "question": "Are there audits for privacy policy and gdpr compliance?",
+    "is_answerable": true,
+    "source_document": "doc_021_privacy_policy_and_g.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_021_5",
+    "question": "What is the penalty for missing a deadline on Mars under Privacy Policy and GDPR Compliance?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_022_1",
+    "question": "What is the policy ID for the Paid Time Off (PTO) and Leave?",
+    "is_answerable": true,
+    "source_document": "doc_022_paid_time_off_(pto)_.pdf",
+    "expected_answer_keywords": [
+      "POL-PAI-022"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_022_2",
+    "question": "How long do employees have to complete the process under the Paid Time Off (PTO) and Leave?",
+    "is_answerable": true,
+    "source_document": "doc_022_paid_time_off_(pto)_.pdf",
+    "expected_answer_keywords": [
+      "30 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_022_3",
+    "question": "Who needs to approve exceptions for paid time off (pto) and leave?",
+    "is_answerable": true,
+    "source_document": "doc_022_paid_time_off_(pto)_.pdf",
+    "expected_answer_keywords": [
+      "Director approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_022_4",
+    "question": "Are there audits for paid time off (pto) and leave?",
+    "is_answerable": true,
+    "source_document": "doc_022_paid_time_off_(pto)_.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_022_5",
+    "question": "What is the penalty for missing a deadline on Mars under Paid Time Off (PTO) and Leave?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_023_1",
+    "question": "What is the policy ID for the Maternity and Paternity Leave?",
+    "is_answerable": true,
+    "source_document": "doc_023_maternity_and_patern.pdf",
+    "expected_answer_keywords": [
+      "POL-MAT-023"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_023_2",
+    "question": "How long do employees have to complete the process under the Maternity and Paternity Leave?",
+    "is_answerable": true,
+    "source_document": "doc_023_maternity_and_patern.pdf",
+    "expected_answer_keywords": [
+      "30 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_023_3",
+    "question": "Who needs to approve exceptions for maternity and paternity leave?",
+    "is_answerable": true,
+    "source_document": "doc_023_maternity_and_patern.pdf",
+    "expected_answer_keywords": [
+      "Manager approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_023_4",
+    "question": "Are there audits for maternity and paternity leave?",
+    "is_answerable": true,
+    "source_document": "doc_023_maternity_and_patern.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_023_5",
+    "question": "What is the penalty for missing a deadline on Mars under Maternity and Paternity Leave?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_024_1",
+    "question": "What is the policy ID for the Workplace Harassment and Discrimination?",
+    "is_answerable": true,
+    "source_document": "doc_024_workplace_harassment.pdf",
+    "expected_answer_keywords": [
+      "POL-WOR-024"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_024_2",
+    "question": "How long do employees have to complete the process under the Workplace Harassment and Discrimination?",
+    "is_answerable": true,
+    "source_document": "doc_024_workplace_harassment.pdf",
+    "expected_answer_keywords": [
+      "23 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_024_3",
+    "question": "Who needs to approve exceptions for workplace harassment and discrimination?",
+    "is_answerable": true,
+    "source_document": "doc_024_workplace_harassment.pdf",
+    "expected_answer_keywords": [
+      "HR approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_024_4",
+    "question": "Are there audits for workplace harassment and discrimination?",
+    "is_answerable": true,
+    "source_document": "doc_024_workplace_harassment.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_024_5",
+    "question": "What is the penalty for missing a deadline on Mars under Workplace Harassment and Discrimination?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_025_1",
+    "question": "What is the policy ID for the Health and Safety Guidelines?",
+    "is_answerable": true,
+    "source_document": "doc_025_health_and_safety_gu.pdf",
+    "expected_answer_keywords": [
+      "POL-HEA-025"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_025_2",
+    "question": "How long do employees have to complete the process under the Health and Safety Guidelines?",
+    "is_answerable": true,
+    "source_document": "doc_025_health_and_safety_gu.pdf",
+    "expected_answer_keywords": [
+      "13 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_025_3",
+    "question": "Who needs to approve exceptions for health and safety guidelines?",
+    "is_answerable": true,
+    "source_document": "doc_025_health_and_safety_gu.pdf",
+    "expected_answer_keywords": [
+      "VP approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_025_4",
+    "question": "Are there audits for health and safety guidelines?",
+    "is_answerable": true,
+    "source_document": "doc_025_health_and_safety_gu.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_025_5",
+    "question": "What is the penalty for missing a deadline on Mars under Health and Safety Guidelines?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_026_1",
+    "question": "What is the policy ID for the Emergency Evacuation Procedures?",
+    "is_answerable": true,
+    "source_document": "doc_026_emergency_evacuation.pdf",
+    "expected_answer_keywords": [
+      "POL-EME-026"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_026_2",
+    "question": "How long do employees have to complete the process under the Emergency Evacuation Procedures?",
+    "is_answerable": true,
+    "source_document": "doc_026_emergency_evacuation.pdf",
+    "expected_answer_keywords": [
+      "24 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_026_3",
+    "question": "Who needs to approve exceptions for emergency evacuation procedures?",
+    "is_answerable": true,
+    "source_document": "doc_026_emergency_evacuation.pdf",
+    "expected_answer_keywords": [
+      "Director approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_026_4",
+    "question": "Are there audits for emergency evacuation procedures?",
+    "is_answerable": true,
+    "source_document": "doc_026_emergency_evacuation.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_026_5",
+    "question": "What is the penalty for missing a deadline on Mars under Emergency Evacuation Procedures?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_027_1",
+    "question": "What is the policy ID for the Open Source Software Usage?",
+    "is_answerable": true,
+    "source_document": "doc_027_open_source_software.pdf",
+    "expected_answer_keywords": [
+      "POL-OPE-027"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_027_2",
+    "question": "How long do employees have to complete the process under the Open Source Software Usage?",
+    "is_answerable": true,
+    "source_document": "doc_027_open_source_software.pdf",
+    "expected_answer_keywords": [
+      "21 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_027_3",
+    "question": "Who needs to approve exceptions for open source software usage?",
+    "is_answerable": true,
+    "source_document": "doc_027_open_source_software.pdf",
+    "expected_answer_keywords": [
+      "HR approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_027_4",
+    "question": "Are there audits for open source software usage?",
+    "is_answerable": true,
+    "source_document": "doc_027_open_source_software.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_027_5",
+    "question": "What is the penalty for missing a deadline on Mars under Open Source Software Usage?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_028_1",
+    "question": "What is the policy ID for the Cryptography and Key Management?",
+    "is_answerable": true,
+    "source_document": "doc_028_cryptography_and_key.pdf",
+    "expected_answer_keywords": [
+      "POL-CRY-028"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_028_2",
+    "question": "How long do employees have to complete the process under the Cryptography and Key Management?",
+    "is_answerable": true,
+    "source_document": "doc_028_cryptography_and_key.pdf",
+    "expected_answer_keywords": [
+      "4 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_028_3",
+    "question": "Who needs to approve exceptions for cryptography and key management?",
+    "is_answerable": true,
+    "source_document": "doc_028_cryptography_and_key.pdf",
+    "expected_answer_keywords": [
+      "Director approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_028_4",
+    "question": "Are there audits for cryptography and key management?",
+    "is_answerable": true,
+    "source_document": "doc_028_cryptography_and_key.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_028_5",
+    "question": "What is the penalty for missing a deadline on Mars under Cryptography and Key Management?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  },
+  {
+    "id": "qa_029_1",
+    "question": "What is the policy ID for the Network Security and Firewalls?",
+    "is_answerable": true,
+    "source_document": "doc_029_network_security_and.pdf",
+    "expected_answer_keywords": [
+      "POL-NET-029"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_029_2",
+    "question": "How long do employees have to complete the process under the Network Security and Firewalls?",
+    "is_answerable": true,
+    "source_document": "doc_029_network_security_and.pdf",
+    "expected_answer_keywords": [
+      "18 days"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_029_3",
+    "question": "Who needs to approve exceptions for network security and firewalls?",
+    "is_answerable": true,
+    "source_document": "doc_029_network_security_and.pdf",
+    "expected_answer_keywords": [
+      "VP approval"
+    ],
+    "type": "direct"
+  },
+  {
+    "id": "qa_029_4",
+    "question": "Are there audits for network security and firewalls?",
+    "is_answerable": true,
+    "source_document": "doc_029_network_security_and.pdf",
+    "expected_answer_keywords": [
+      "Routine audits",
+      "governance board"
+    ],
+    "type": "semantic"
+  },
+  {
+    "id": "qa_029_5",
+    "question": "What is the penalty for missing a deadline on Mars under Network Security and Firewalls?",
+    "is_answerable": false,
+    "source_document": null,
+    "expected_answer_keywords": [],
+    "type": "unanswerable"
+  }
+]

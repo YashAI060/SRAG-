@@ -1,0 +1,47 @@
+# ── Web Framework & Server ──────────────────────────────────────────────────
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+
+# ── Config & Validation ──────────────────────────────────────────────────────
+pydantic==2.7.4
+pydantic-settings==2.3.4
+pydantic[email]
+
+# ── Security ─────────────────────────────────────────────────────────────────
+PyJWT==2.8.0
+passlib[bcrypt]==1.7.4
+python-jose[cryptography]==3.3.0
+
+# ── Database (SQLite via aiosqlite for async, SQLAlchemy for ORM) ────────────
+SQLAlchemy==2.0.30
+aiosqlite==0.20.0
+
+# ── AI & Vector Store ────────────────────────────────────────────────────────
+google-generativeai==0.8.3
+qdrant-client==1.9.1
+
+# ── Hybrid Search (BM25) ─────────────────────────────────────────────────────
+rank-bm25==0.2.2
+
+# ── Local Embeddings & Utilities ─────────────────────────────────────────────
+sentence-transformers>=3.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# ── Document Processing ───────────────────────────────────────────────────────
+pypdf==4.2.0
+PyMuPDF==1.24.5      # fitz — faster extraction + OCR hook
+
+# ── OCR (optional — requires Tesseract binary installed on host) ─────────────
+pytesseract==0.3.10
+pdf2image==1.17.0
+Pillow==10.4.0
+
+# ── Observability ─────────────────────────────────────────────────────────────
+structlog==24.2.0
+
+# ── Testing ───────────────────────────────────────────────────────────────────
+pytest==8.2.2
+pytest-asyncio==0.23.7
+httpx==0.27.0

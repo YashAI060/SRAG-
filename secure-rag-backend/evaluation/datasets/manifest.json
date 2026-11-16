@@ -1,0 +1,156 @@
+{
+  "dataset_version": "2.1",
+  "corpus_version": "2.1",
+  "documents": [
+    {
+      "file": "doc_000_remote_work_and_tele.pdf",
+      "title": "Remote Work and Telecommuting Policy",
+      "description": "Generated document for Remote Work and Telecommuting Policy"
+    },
+    {
+      "file": "doc_001_information_security.pdf",
+      "title": "Information Security and Acceptable Use",
+      "description": "Generated document for Information Security and Acceptable Use"
+    },
+    {
+      "file": "doc_002_employee_code_of_con.pdf",
+      "title": "Employee Code of Conduct",
+      "description": "Generated document for Employee Code of Conduct"
+    },
+    {
+      "file": "doc_003_travel_and_expense_r.pdf",
+      "title": "Travel and Expense Reimbursement",
+      "description": "Generated document for Travel and Expense Reimbursement"
+    },
+    {
+      "file": "doc_004_procurement_and_vend.pdf",
+      "title": "Procurement and Vendor Management",
+      "description": "Generated document for Procurement and Vendor Management"
+    },
+    {
+      "file": "doc_005_data_retention_and_d.pdf",
+      "title": "Data Retention and Destruction",
+      "description": "Generated document for Data Retention and Destruction"
+    },
+    {
+      "file": "doc_006_business_continuity_.pdf",
+      "title": "Business Continuity and Disaster Recovery",
+      "description": "Generated document for Business Continuity and Disaster Recovery"
+    },
+    {
+      "file": "doc_007_incident_response_pl.pdf",
+      "title": "Incident Response Plan",
+      "description": "Generated document for Incident Response Plan"
+    },
+    {
+      "file": "doc_008_employee_onboarding_.pdf",
+      "title": "Employee Onboarding and Offboarding",
+      "description": "Generated document for Employee Onboarding and Offboarding"
+    },
+    {
+      "file": "doc_009_bring_your_own_devic.pdf",
+      "title": "Bring Your Own Device (BYOD) Policy",
+      "description": "Generated document for Bring Your Own Device (BYOD) Policy"
+    },
+    {
+      "file": "doc_010_anti-bribery_and_cor.pdf",
+      "title": "Anti-Bribery and Corruption Policy",
+      "description": "Generated document for Anti-Bribery and Corruption Policy"
+    },
+    {
+      "file": "doc_011_social_media_and_pub.pdf",
+      "title": "Social Media and Public Communications",
+      "description": "Generated document for Social Media and Public Communications"
+    },
+    {
+      "file": "doc_012_performance_review_a.pdf",
+      "title": "Performance Review and Promotions",
+      "description": "Generated document for Performance Review and Promotions"
+    },
+    {
+      "file": "doc_013_contractor_remote_wo.pdf",
+      "title": "Contractor Remote Work and Access",
+      "description": "Generated document for Contractor Remote Work and Access"
+    },
+    {
+      "file": "doc_014_vendor_information_s.pdf",
+      "title": "Vendor Information Security",
+      "description": "Generated document for Vendor Information Security"
+    },
+    {
+      "file": "doc_015_executive_travel_and.pdf",
+      "title": "Executive Travel and Expense",
+      "description": "Generated document for Executive Travel and Expense"
+    },
+    {
+      "file": "doc_016_it_hardware_provisio.pdf",
+      "title": "IT Hardware Provisioning",
+      "description": "Generated document for IT Hardware Provisioning"
+    },
+    {
+      "file": "doc_017_software_license_man.pdf",
+      "title": "Software License Management",
+      "description": "Generated document for Software License Management"
+    },
+    {
+      "file": "doc_018_physical_security_an.pdf",
+      "title": "Physical Security and Access Control",
+      "description": "Generated document for Physical Security and Access Control"
+    },
+    {
+      "file": "doc_019_cloud_infrastructure.pdf",
+      "title": "Cloud Infrastructure Security",
+      "description": "Generated document for Cloud Infrastructure Security"
+    },
+    {
+      "file": "doc_020_data_classification_.pdf",
+      "title": "Data Classification and Handling",
+      "description": "Generated document for Data Classification and Handling"
+    },
+    {
+      "file": "doc_021_privacy_policy_and_g.pdf",
+      "title": "Privacy Policy and GDPR Compliance",
+      "description": "Generated document for Privacy Policy and GDPR Compliance"
+    },
+    {
+      "file": "doc_022_paid_time_off_(pto)_.pdf",
+      "title": "Paid Time Off (PTO) and Leave",
+      "description": "Generated document for Paid Time Off (PTO) and Leave"
+    },
+    {
+      "file": "doc_023_maternity_and_patern.pdf",
+      "title": "Maternity and Paternity Leave",
+      "description": "Generated document for Maternity and Paternity Leave"
+    },
+    {
+      "file": "doc_024_workplace_harassment.pdf",
+      "title": "Workplace Harassment and Discrimination",
+      "description": "Generated document for Workplace Harassment and Discrimination"
+    },
+    {
+      "file": "doc_025_health_and_safety_gu.pdf",
+      "title": "Health and Safety Guidelines",
+      "description": "Generated document for Health and Safety Guidelines"
+    },
+    {
+      "file": "doc_026_emergency_evacuation.pdf",
+      "title": "Emergency Evacuation Procedures",
+      "description": "Generated document for Emergency Evacuation Procedures"
+    },
+    {
+      "file": "doc_027_open_source_software.pdf",
+      "title": "Open Source Software Usage",
+      "description": "Generated document for Open Source Software Usage"
+    },
+    {
+      "file": "doc_028_cryptography_and_key.pdf",
+      "title": "Cryptography and Key Management",
+      "description": "Generated document for Cryptography and Key Management"
+    },
+    {
+      "file": "doc_029_network_security_and.pdf",
+      "title": "Network Security and Firewalls",
+      "description": "Generated document for Network Security and Firewalls"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "dataset_version": "2.1",
+  "corpus_version": "2.1",
+  "description": "Hard-Negative V2.1 Benchmark. 30 baseline policy documents + 15 adversarial documents (5 semantic, 5 lexical, 5 numeric). No shared filler paragraphs. Ground truth keyed on (source_document, ground_truth_pages).",
+  "generation_timestamp": "2024-09-05T00:00:00Z",
+  "corpus_sha256": "794ec1f76311cbe85f8cf4d01667df05bbb9eecbdce0f4ed4c57d020a68b4078",
+  "document_count": 45,
+  "question_count": 105,
+  "question_type_counts": {
+    "lexical": 30,
+    "semantic": 30,
+    "multi_hop": 30,
+    "unanswerable": 15
+  },
+  "chunk_identity_note": "Ground truth is expressed as (source_document, ground_truth_pages). At evaluation time, a chunk is a match if its document_id corresponds to source_document AND its page_number is in ground_truth_pages.",
+  "documents": [
+    {
+      "file": "adv_lex_005_retention.pdf",
+      "title": "adv_lex_005_retention",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "adv_lex_006_dr.pdf",
+      "title": "adv_lex_006_dr",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "adv_lex_007_incident.pdf",
+      "title": "adv_lex_007_incident",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "adv_lex_008_onboarding.pdf",
+      "title": "adv_lex_008_onboarding",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "adv_lex_009_byod.pdf",
+      "title": "adv_lex_009_byod",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "adv_num_010_bribery.pdf",
+      "title": "adv_num_010_bribery",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "adv_num_011_social_media.pdf",
+      "title": "adv_num_011_social_media",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "adv_num_012_performance.pdf",
+      "title": "adv_num_012_performance",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "adv_num_013_contractors.pdf",
+      "title": "adv_num_013_contractors",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "adv_num_014_vendor_sec.pdf",
+      "title": "adv_num_014_vendor_sec",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "adv_sem_000_remote_work.pdf",
+      "title": "adv_sem_000_remote_work",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "adv_sem_001_infosec.pdf",
+      "title": "adv_sem_001_infosec",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "adv_sem_002_conduct.pdf",
+      "title": "adv_sem_002_conduct",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "adv_sem_003_travel.pdf",
+      "title": "adv_sem_003_travel",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "adv_sem_004_procurement.pdf",
+      "title": "adv_sem_004_procurement",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_000_remote_work.pdf",
+      "title": "baseline_000_remote_work",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_001_infosec.pdf",
+      "title": "baseline_001_infosec",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_002_conduct.pdf",
+      "title": "baseline_002_conduct",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_003_travel.pdf",
+      "title": "baseline_003_travel",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_004_procurement.pdf",
+      "title": "baseline_004_procurement",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_005_retention.pdf",
+      "title": "baseline_005_retention",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_006_dr.pdf",
+      "title": "baseline_006_dr",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_007_incident.pdf",
+      "title": "baseline_007_incident",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_008_onboarding.pdf",
+      "title": "baseline_008_onboarding",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_009_byod.pdf",
+      "title": "baseline_009_byod",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_010_bribery.pdf",
+      "title": "baseline_010_bribery",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_011_social_media.pdf",
+      "title": "baseline_011_social_media",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_012_performance.pdf",
+      "title": "baseline_012_performance",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_013_contractors.pdf",
+      "title": "baseline_013_contractors",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_014_vendor_sec.pdf",
+      "title": "baseline_014_vendor_sec",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_015_exec_travel.pdf",
+      "title": "baseline_015_exec_travel",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_016_hardware.pdf",
+      "title": "baseline_016_hardware",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_017_licenses.pdf",
+      "title": "baseline_017_licenses",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_018_physical_sec.pdf",
+      "title": "baseline_018_physical_sec",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_019_cloud_sec.pdf",
+      "title": "baseline_019_cloud_sec",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_020_classification.pdf",
+      "title": "baseline_020_classification",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_021_privacy.pdf",
+      "title": "baseline_021_privacy",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_022_pto.pdf",
+      "title": "baseline_022_pto",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_023_parental_leave.pdf",
+      "title": "baseline_023_parental_leave",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_024_harassment.pdf",
+      "title": "baseline_024_harassment",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_025_safety.pdf",
+      "title": "baseline_025_safety",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_026_evacuation.pdf",
+      "title": "baseline_026_evacuation",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_027_oss.pdf",
+      "title": "baseline_027_oss",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_028_crypto.pdf",
+      "title": "baseline_028_crypto",
+      "description": "V2.1 document"
+    },
+    {
+      "file": "baseline_029_network.pdf",
+      "title": "baseline_029_network",
+      "description": "V2.1 document"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+venv/
+.env
+.pytest_cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.git/
+.gitignore
+data/
+*.sqlite
+*.db
+benchmark_results.txt
+tests/

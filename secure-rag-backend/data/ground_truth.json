@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What is the access policy for security logs?",
+    "ground_truth": "Security logs must be restricted to auditors and administrators only, and kept for a minimum of 365 days."
+  },
+  {
+    "question": "How are database secrets managed in the backend?",
+    "ground_truth": "Database secrets are loaded via environments variables using Pydantic Settings and should not be hardcoded in any configuration file."
+  }
+]
