@@ -6,8 +6,7 @@
 Hybrid retrieval finds every piece of evidence. A calibrated confidence gate blocks hallucinations before generation.
 
 [**Live App**](http://localhost:5173) ·
-[**Demo Video (2:46)**](https://drive.google.com) ·
-Built for **Enterprise RAG Challenge**, theme *Trustworthy & Secure AI* ·
+[**Demo Video (2:46)**](https://drive.google.com) · ·
 Deployed on **Docker / Self-Hosted Cloud**
 
 <br>
